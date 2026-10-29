@@ -1,295 +1,295 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1020,40:312E81,75:075985,100:06B6D4&text=YESHWANTH%20E&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=ENGINEERING%20%7C%20AI%20%7C%20EMBEDDED%20SYSTEMS&descSize=17&descAlignY=58&animation=fadeIn" alt="Yeshwanth E — Engineering Portfolio"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,25:111827,60:312E81,100:06B6D4&text=YESHWANTH%20E&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=ENGINEERING%20THE%20FUTURE&descSize=18&descAlignY=57&animation=fadeIn" alt="Animated futuristic header"/>
 
-<a href="https://github.com/Yeshwanth-io">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=Geo-Informatics+Engineering+%40+Anna+University+CEG;Diploma+in+Electronics+%26+Communication+Engineering;Embedded+Systems+%7C+IoT+%7C+Robotics;Computer+Vision+%7C+AI+%7C+Software+Development;Connecting+Hardware%2C+Software+%26+Intelligence" alt="Animated introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=600&color=22D3EE&center=true&vCenter=true&width=850&height=100&lines=GEO-INFORMATICS+%40+ANNA+UNIVERSITY+CEG;ELECTRONICS+%7C+EMBEDDED+SYSTEMS+%7C+ROBOTICS;COMPUTER+VISION+%7C+AI+%7C+SOFTWARE;BUILDING+INTELLIGENT+REAL-WORLD+SOLUTIONS" alt="Animated engineering introduction"/>
 
 <br/>
 
-<a href="https://github.com/Yeshwanth-io">
-<img src="https://img.shields.io/badge/GitHub-Yeshwanth--io-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/yeshwanth-e-958087383/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:yeshwanthe2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://github.com/Yeshwanth-io"><img src="https://img.shields.io/badge/GitHub-Yeshwanth--io-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/yeshwanth-e-958087383/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:yeshwanthe2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Yeshwanth-io&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Yeshwanth-io&style=flat-square&color=06B6D4&label=PROFILE+VISITORS" alt="Profile visitors"/>
 
 </div>
 
 ---
 
-## `01 // SYSTEM PROFILE`
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=1000&color=818CF8&center=true&vCenter=true&width=650&height=45&lines=01+%2F%2F+SYSTEM+PROFILE" alt="Animated section title"/>
+
+</div>
 
 ```python
 class YeshwanthE:
-    def __init__(self):
-        self.name = "Yeshwanth E"
-        self.username = "Yeshwanth-io"
-        self.university = "Anna University — CEG"
-        self.degree = "B.E. Geo-Informatics Engineering"
-        self.diploma = "Electronics and Communication Engineering"
+    name = "Yeshwanth E"
+    github = "Yeshwanth-io"
+    university = "Anna University — CEG"
 
-        self.domains = [
-            "Artificial Intelligence",
-            "Computer Vision",
-            "Embedded Systems",
-            "Robotics and Automation",
-            "Internet of Things",
-            "Geospatial Intelligence",
-            "Full-Stack Development"
-        ]
+    education = [
+        "B.E. Geo-Informatics Engineering",
+        "Diploma in Electronics & Communication Engineering"
+    ]
+
+    interests = [
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Embedded Systems",
+        "IoT & Robotics",
+        "Software Engineering",
+        "Geospatial Intelligence"
+    ]
 
     def mission(self):
-        return "Build intelligent solutions for real-world problems"
-
-    def philosophy(self):
-        return "Hardware + Software + Intelligence"
+        return "Transform ideas into intelligent solutions"
 ```
 
-I'm an engineering student interested in connecting **electronics, software development, computer vision, embedded systems, and geospatial technologies** to create practical, intelligent solutions.
+I'm a research-driven engineering student passionate about combining **hardware, software, AI, and geospatial technologies** to solve practical problems.
 
-My experience spans software engineering, full-stack development, sensor integration, automation, robotics, and interdisciplinary engineering projects.
+My experience includes software development, full-stack projects, embedded systems, sensor integration, computer vision, robotics, and interdisciplinary engineering research.
 
-- 🔭 Exploring AI-powered systems and intelligent engineering applications.
-- 🤖 Building IoT, embedded, robotics, and computer vision projects.
-- 🌍 Applying geospatial technology to real-world environmental challenges.
-- 💻 Developing software tools, web applications, and technical automation systems.
-- 🛰️ Interested in R&D, electronics, space technology, and interdisciplinary innovation.
-- 🤝 Open to meaningful technical collaborations and research opportunities.
-
-> *Building technology that connects the physical world with intelligent software.*
-
----
-
-## `02 // TECHNICAL ARSENAL`
+- 🔭 Exploring intelligent systems and engineering automation.
+- ⚡ Building hardware–software integrated solutions.
+- 🤖 Interested in robotics, computer vision, and embedded AI.
+- 🌍 Exploring satellite data, GIS, and remote-sensing applications.
+- 💻 Developing web applications and engineering tools.
+- 🤝 Interested in R&D, innovation, and technical collaborations.
 
 <div align="center">
 
-### Programming Languages
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&height=35&lines=HARDWARE+%2B+SOFTWARE+%2B+INTELLIGENCE;ENGINEER.+EXPERIMENT.+INNOVATE." alt="Animated engineering philosophy"/>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js&theme=dark" alt="Programming languages"/>
+</div>
 
-### Web Development
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,nodejs&theme=dark" alt="Web technologies"/>
+<div align="center">
 
-### Development Tools & Databases
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=02+%2F%2F+TECHNICAL+ARSENAL" alt="Animated technical skills heading"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,firebase&theme=dark" alt="Development tools"/>
+### Languages & Development
 
-### Engineering & Geospatial Technologies
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,nodejs&theme=dark" alt="Programming and web development icons"/>
+
+### Tools & Databases
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,firebase&theme=dark" alt="Developer tools and database icons"/>
+
+### Engineering Technologies
 
 <img src="https://img.shields.io/badge/ESP32-Embedded%20Systems-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
 <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/QGIS-Geospatial-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
-<img src="https://img.shields.io/badge/ArcGIS-Geospatial%20Analysis-0079C1?style=for-the-badge" alt="ArcGIS"/>
-<img src="https://img.shields.io/badge/Google%20Earth%20Engine-Satellite%20Analysis-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white" alt="Google Earth Engine"/>
+<img src="https://img.shields.io/badge/ArcGIS-Mapping-0079C1?style=for-the-badge" alt="ArcGIS"/>
+<img src="https://img.shields.io/badge/Google%20Earth%20Engine-Remote%20Sensing-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white" alt="Google Earth Engine"/>
 
 </div>
 
-**Technical focus**
+<details>
+<summary><b>Explore my technical domains</b></summary>
 
-`Python` · `C/C++` · `JavaScript` · `HTML/CSS` · `Node.js` · `REST APIs` · `MongoDB` · `Firebase Firestore` · `OpenCV` · `ESP32` · `QGIS` · `ArcGIS`
+| Domain | Skills and interests |
+|---|---|
+| Programming | Python, C, C++, Java, JavaScript |
+| Web development | HTML, CSS, responsive UI, Node.js basics, REST APIs |
+| Databases | MongoDB, Firebase Firestore |
+| Computer vision | OpenCV, image processing, circle detection |
+| Embedded systems | ESP32, sensor integration |
+| Geospatial | QGIS, ArcGIS, Google Earth Engine basics |
+| Version control | Git, GitHub |
+
+</details>
 
 ---
 
-## `03 // FEATURED PROJECTS`
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=03+%2F%2F+PROJECT+LABORATORY" alt="Animated projects heading"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=600&height=35&lines=FROM+ELECTRONICS+TO+INTELLIGENT+SYSTEMS" alt="Animated project subtitle"/>
+
+</div>
 
 <details>
-<summary><b>⛏️ RAKSHA — AI-Based Rockfall Prediction</b></summary>
+<summary>⛏️ <b>RAKSHA — AI-Based Rockfall Prediction</b></summary>
 
-**Domain:** Remote Sensing · InSAR · Hazard Monitoring · Sensor Integration
+<img src="https://img.shields.io/badge/DOMAIN-HAZARD%20MONITORING-7C3AED?style=flat-square" alt="Hazard monitoring"/>
 
-A hardware–software integrated framework for rockfall prediction and hazard monitoring in open-pit mines.
+A hardware–software integrated framework for rockfall prediction and monitoring in open-pit mines.
 
 - Explores InSAR analysis and sensor-based slope monitoring.
-- Focuses on assessing slope instability and rockfall hazards.
-- Team project presented at GeodCon 2026, New Delhi, at INSA.
+- Focuses on slope instability and hazard assessment.
+- Presented at GeodCon 2026, New Delhi, at INSA.
 
-**Tech focus:** Satellite data, geospatial analysis, monitoring sensors.
-
-</details>
-
-<details>
-<summary><b>👁️ Computer Vision-Based Defect Detection</b></summary>
-
-**Domain:** Computer Vision · Image Processing · Industrial Automation
-
-A system designed to detect defects in material-testing processes and automate technical report generation.
-
-- Applies image-processing techniques to inspection workflows.
-- Aims to reduce repetitive manual analysis.
-- Connects visual inspection with automated reporting.
-
-**Tech focus:** OpenCV, image processing, report automation.
+`Remote Sensing` `InSAR` `Sensors` `Geospatial Analysis`
 
 </details>
 
 <details>
-<summary><b>🌾 IoT-Based Agriculture Monitoring</b></summary>
+<summary>👁️ <b>Computer Vision-Based Defect Detection</b></summary>
 
-**Domain:** Embedded Systems · IoT · Smart Agriculture
+<img src="https://img.shields.io/badge/DOMAIN-COMPUTER%20VISION-2563EB?style=flat-square" alt="Computer vision"/>
+
+A system designed to identify defects in material-testing workflows and automate technical report generation.
+
+- Applies computer vision to inspection tasks.
+- Connects defect detection with automated reporting.
+- Targets more efficient technical workflows.
+
+`OpenCV` `Image Processing` `Automation`
+
+</details>
+
+<details>
+<summary>🌾 <b>IoT-Based Agriculture Monitoring</b></summary>
 
 A sensor-based system for monitoring soil and environmental conditions to support smart farming.
 
 - Integrates environmental sensors.
-- Collects information relevant to agricultural monitoring.
-- Explores practical IoT applications in agriculture.
+- Explores real-time agricultural monitoring.
+- Combines hardware and software.
 
-**Tech focus:** Sensors, embedded systems, IoT.
+`IoT` `ESP32` `Sensors` `Smart Agriculture`
 
 </details>
 
 <details>
-<summary><b>🏠 ESP32-Based Smart Home Automation</b></summary>
-
-**Domain:** Electronics · Embedded C · IoT
+<summary>🏠 <b>ESP32-Based Smart Home Automation</b></summary>
 
 A smart-home project designed to control and monitor appliances remotely.
 
-- Uses ESP32 and sensors.
-- Focuses on remote appliance control.
-- Explores connected-home automation.
+- ESP32 and sensor integration.
+- Remote appliance control.
+- Connected-home automation.
+
+`ESP32` `Embedded Systems` `IoT`
 
 </details>
 
 <details>
-<summary><b>🌊 Rural Drainage Network Mapping</b></summary>
+<summary>🌊 <b>Rural Drainage Network Mapping</b></summary>
 
-**Domain:** GIS · Point-Cloud Processing · Digital Terrain Models
-
-A geospatial project aimed at mapping village drainage networks to support flood management and water-resource planning.
+A geospatial workflow for mapping drainage networks in rural villages.
 
 - Converts point-cloud data into Digital Terrain Models.
-- Investigates drainage challenges in rural areas.
+- Investigates drainage challenges related to flooding and water scarcity.
 - Submitted at Geointel'26 as part of a five-member team.
+
+`GIS` `Point Clouds` `DTM` `Flood Management`
 
 </details>
 
 <details>
-<summary><b>🤖 Autonomous RC Car & Self-Balancing Robot</b></summary>
-
-**Domain:** Robotics · Electronics · Control Systems
+<summary>🤖 <b>Autonomous RC Car & Self-Balancing Robot</b></summary>
 
 Developed autonomous RC car and self-balancing robot prototypes using sensors and control algorithms.
 
-**Tech focus:** Sensors, embedded programming, automation.
+`Robotics` `Sensors` `Control Systems` `Electronics`
 
 </details>
 
 <details>
-<summary><b>📦 QR Code-Based Tracking System</b></summary>
+<summary>📦 <b>QR Code-Based Tracking System</b></summary>
 
-**Domain:** Web Development · Tracking · Data Management
+A web-based tracking solution for identification, tracking, and data management using QR codes.
 
-A web-based tracking system designed for efficient identification and management using QR codes.
-
-</details>
-
-<details>
-<summary><b>⚙️ NH Repogen Pro</b></summary>
-
-**Domain:** Software Engineering · Technical Automation
-
-A software tool for automating technical and laboratory report generation, helping reduce manual work and improve workflow efficiency.
+`Web Development` `QR Codes` `Database Systems`
 
 </details>
 
 <details>
-<summary><b>🌐 AI-Based Websites & E-Commerce</b></summary>
+<summary>⚙️ <b>NH Repogen Pro</b></summary>
 
-**Domain:** Full-Stack Development · Web Applications
+A software tool designed to automate technical and laboratory report generation and reduce repetitive manual work.
+
+`Software Engineering` `Technical Automation`
+
+</details>
+
+<details>
+<summary>🌐 <b>AI-Integrated Websites & E-Commerce</b></summary>
 
 Developed AI-integrated websites, e-commerce platforms, and portfolio/company websites.
 
-**Tech focus:** HTML, CSS, JavaScript, Node.js, APIs and databases.
+`HTML` `CSS` `JavaScript` `Node.js` `REST APIs`
 
 </details>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=35&lines=EVERY+PROJECT+IS+A+NEW+ENGINEERING+CHALLENGE" alt="Animated project footer"/>
+
+</div>
+
 ---
 
-## `04 // PROFESSIONAL EXPERIENCE`
+<div align="center">
 
-| Role | Organization |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=650&height=45&lines=04+%2F%2F+PROFESSIONAL+JOURNEY" alt="Animated experience heading"/>
+
+</div>
+
+| Position | Organization |
 |---|---|
 | Full-Stack Developer | NH Instruments |
 | Part-Time Software Engineer | NH Instruments LLP |
 | Freelance Software Developer | Analytical Research & Metallurgical Laboratories Pvt. Ltd. |
 | Project Team Lead Intern | Indian Institute of Technology Bombay |
 
-<sub>Roles and organizations are based on the experience listed in my CV.</sub>
-
----
-
-## `05 // EDUCATION`
-
 <details>
-<summary><b>🎓 B.E. Geo-Informatics Engineering</b></summary>
+<summary><b>🎓 Education</b></summary>
 
-**Anna University — College of Engineering Guindy, Chennai**
+**B.E. Geo-Informatics Engineering**
+
+College of Engineering Guindy, Anna University
 
 - 2025–Present
-- CGPA reported in my CV: 6.5/10
+- CV-reported CGPA: 6.5/10
 
-</details>
+**Diploma in Electronics and Communication Engineering**
 
-<details>
-<summary><b>⚡ Diploma in Electronics and Communication Engineering</b></summary>
-
-**Guru Raagavendra Polytechnic College**
+Guru Raagavendra Polytechnic College
 
 - 2022–2024
-- Diploma percentage reported in my CV: 94.87%
+- CV-reported percentage: 94.87%
 
 </details>
 
 ---
-
-## `06 // IEEE & TECHNICAL INTERESTS`
 
 <div align="center">
 
-<a href="https://www.ieee.org/">
-<img src="https://img.shields.io/badge/IEEE-GRSS-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE GRSS"/>
-</a>
-<a href="https://www.ieee.org/">
-<img src="https://img.shields.io/badge/IEEE-APS-0072CE?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE APS"/>
-</a>
-<a href="https://www.ieee.org/">
-<img src="https://img.shields.io/badge/IEEE-AESS-7C3AED?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE AESS"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=1000&color=34D399&center=true&vCenter=true&width=650&height=45&lines=05+%2F%2F+IEEE+COMMUNITY" alt="Animated IEEE heading"/>
+
+<a href="https://www.ieee.org/"><img src="https://img.shields.io/badge/IEEE-GRSS-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE GRSS"/></a>
+<a href="https://www.ieee.org/"><img src="https://img.shields.io/badge/IEEE-APS-0072CE?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE APS"/></a>
+<a href="https://www.ieee.org/"><img src="https://img.shields.io/badge/IEEE-AESS-7C3AED?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE AESS"/></a>
 
 </div>
 
-My interests span multiple engineering disciplines:
+My interests connect several engineering disciplines:
 
-- **AI & Computer Vision:** Image analysis, detection and automation.
-- **Embedded Systems:** Microcontrollers, sensors and connected devices.
-- **Robotics:** Autonomous systems and control algorithms.
-- **Geospatial Engineering:** Remote sensing, GIS and terrain analysis.
-- **Software Engineering:** Full-stack applications and technical tools.
-- **Electronics & Communication:** Hardware–software integration.
+- **IEEE GRSS:** Geoscience, remote sensing, and satellite applications.
+- **IEEE APS:** Antennas, propagation, and communication technologies.
+- **IEEE AESS:** Aerospace and electronic systems.
 
 ---
 
-## `07 // GITHUB ANALYTICS`
-
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=1000&color=FBBF24&center=true&vCenter=true&width=650&height=45&lines=06+%2F%2F+GITHUB+COMMAND+CENTER" alt="Animated analytics heading"/>
+
+### Contribution & Repository Analytics
 
 <a href="https://github.com/Yeshwanth-io">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yeshwanth-io&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
 </a>
-
 <a href="https://github.com/Yeshwanth-io">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeshwanth-io&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeshwanth-io&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </a>
 
 <br/><br/>
@@ -298,34 +298,28 @@ My interests span multiple engineering disciplines:
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yeshwanth-io&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="GitHub activity graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yeshwanth-io&bg_color=0D1117&color=70A5FD&line=38BDAE&point=BF91F3&area=true&hide_border=true" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-## `08 // CONNECT WITH ME`
-
 <div align="center">
 
-<a href="https://github.com/Yeshwanth-io">
-<img src="https://img.shields.io/badge/GitHub-Yeshwanth--io-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&height=45&lines=07+%2F%2F+LET'S+BUILD+SOMETHING" alt="Animated connect heading"/>
 
-<a href="https://www.linkedin.com/in/yeshwanth-e-958087383/">
-<img src="https://img.shields.io/badge/LinkedIn-Yeshwanth%20E-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
-</a>
-
-<a href="mailto:yeshwanthe2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://github.com/Yeshwanth-io"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/yeshwanth-e-958087383/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:yeshwanthe2006@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-**Open to:** Engineering collaborations · R&D · Embedded systems · Computer vision · Software development · Geospatial innovation
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=800&color=A5B4FC&center=true&vCenter=true&width=700&height=45&lines=Open+to+Engineering+Collaborations;Interested+in+R%26D+and+Technical+Innovation;Let's+Turn+Ideas+Into+Working+Solutions" alt="Animated collaboration message"/>
 
-*“Think beyond boundaries. Engineer beyond limitations.”*
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0B1020&height=120&section=footer&animation=fadeIn" alt="Animated footer"/>
+*Think beyond boundaries. Engineer beyond limitations.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06B6D4,40:312E81,100:050816&animation=fadeIn" alt="Animated footer"/>
 
 </div>
