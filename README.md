@@ -221,8 +221,8 @@ Technical interests:
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=900&color=FBBF24&center=true&vCenter=true&width=650&height=42&lines=06+%2F%2F+GITHUB+ANALYTICS" alt="Animated GitHub analytics heading" />
 
-<a href="https://github.com/Yeshwanth-io"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Yeshwanth-io&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" /></a>
-<a href="https://github.com/Yeshwanth-io"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeshwanth-io&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" /></a>
+
+
 
 <br/><br/>
 
@@ -230,8 +230,7 @@ Technical interests:
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yeshwanth-io&bg_color=09090b&color=70a5fd&line=34d399&point=bf91f3&area=true&hide_border=true" alt="GitHub activity graph" />
-</div>
+
 
 ---
 
